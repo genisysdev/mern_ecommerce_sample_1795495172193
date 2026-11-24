@@ -1,0 +1,9 @@
+{
+  "name": "mern-ecommerce-api",
+  "version": "1.0.0",
+  "description": "Sample MERN e-commerce models for AIRAA readiness audit",
+  "main": "server.js",
+  "dependencies": {
+    "mongoose": "^8.0.0"
+  }
+}
